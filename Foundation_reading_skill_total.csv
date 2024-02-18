@@ -1,32 +1,32 @@
 ﻿Countries_and_areas,Country_Code,ISO_Code,Region,Sub_region,Development_regions,Indicator,Category,Point_estimate,Upper_limit,Lower_limit,Point_estimate_,Upper_limit_,Lower_limit_,Point_estimate__,Upper_limit__,Lower_limit__,Data_source,Time_period
-Belarus,1,BLR,ECA,EECA,More Developed,Foundational reading skill,Total,82.4,84.3,80.6,82.7,84.5,80.8,77,86.7,67.4,MICS6,2019
-Turkmenistan,2,TKM,ECA,EECA,Less Developed,Foundational reading skill,Total,81.8,83.5,80.2,82.2,83.8,80.5,63.8,78.3,49.2,MICS6,2019
-Turks and Caicos Islands,3,TCA,LAC,LAC,Not Classified,Foundational reading skill,Total,78.3,83.3,73.3,77.6,83,72.3,,,,MICS6,2019-2020
-Tunisia,4,TUN,MENA,MENA,Less Developed,Foundational reading skill,Total,66,67.7,64.2,68.9,70.9,67,56.5,60.4,52.6,MICS6,2018
-Mongolia,5,MNG,EAP,EAP,Less Developed,Foundational reading skill,Total,63.2,64.6,61.8,63.5,65,62.1,57.5,63.7,51.3,MICS6,2018
-North Macedonia,6,MKD,ECA,EECA,More Developed,Foundational reading skill,Total,64.2,67.6,60.8,66.4,70,62.9,48.5,59.5,37.5,MICS6,2018-2019
-Tonga,7,TON,EAP,EAP,Less Developed,Foundational reading skill,Total,62.6,65.7,59.5,62.6,65.8,59.4,62.6,73.2,52.1,MICS6,2019
-Guyana,8,GUY,LAC,LAC,Less Developed,Foundational reading skill,Total,61.6,64,59.3,63.6,66.2,61.1,51.9,57.9,45.9,MICS6,2019-2020
-Kyrgyzstan,9,KGZ,ECA,EECA,Less Developed,Foundational reading skill,Total,57.8,59.8,55.8,59.4,61.5,57.4,41,48.5,33.5,MICS6,2018
-State of Palestine,10,PSE,MENA,MENA,Less Developed,Foundational reading skill,Total,52.7,54.5,50.9,55,56.9,53.1,38.6,43.3,33.9,MICS6,2019-2020
-Samoa,11,WSM,EAP,EAP,Less Developed,Foundational reading skill,Total,51.8,54.5,49.2,53.2,56.2,50.2,47.1,53,41.2,MICS6,2019-2020
-Tuvalu,12,TUV,EAP,EAP,Least Developed,Foundational reading skill,Total,54.8,61,48.6,56.3,62.9,49.8,,,,MICS6,2019-2020
-Bangladesh,13,BGD,SA,SA,Least Developed,Foundational reading skill,Total,48.8,49.5,48.2,50,50.7,49.3,35.7,38.1,33.4,MICS6,2019
-Suriname,14,SUR,LAC,LAC,Less Developed,Foundational reading skill,Total,46.8,49,44.6,48.7,51.1,46.3,34.5,40.1,28.8,MICS6,2018
-Zimbabwe,15,ZWE,SSA,ESA,Less Developed,Foundational reading skill,Total,44.4,45.9,42.9,45.9,47.4,44.3,31,35.6,26.4,MICS6,2019
-Lesotho,16,LSO,SSA,ESA,Least Developed,Foundational reading skill,Total,43.8,45.6,41.9,44.4,46.3,42.5,36.3,42.6,30,MICS6,2018
-Kosovo,17,,ECA,EECA,,Foundational reading skill,Total,41.1,43.9,38.3,42.1,45,39.2,29.8,38.9,20.6,MICS6,2019-20
-Nepal,18,NPL,SA,SA,Least Developed,Foundational reading skill,Total,39.2,40.6,37.8,40.1,41.6,38.6,33.1,36.8,29.4,MICS6,2019
-Pakistan,19,,SA,SA,Less Developed,Foundational reading skill,Total,36.5,37.2,35.8,37.6,38.4,36.8,31.2,32.8,29.5,MICS6,2017-2018
-Sao Tome and Principe,20,STP,SSA,WCA,Least Developed,Foundational reading skill,Total,38.4,41,35.7,41.5,44.5,38.5,25.5,30.8,20.1,MICS7,2019
-Kiribati,21,KIR,EAP,EAP,Least Developed,Foundational reading skill,Total,35.4,37.9,33,35.5,38.4,32.7,35,40.3,29.8,MICS6,2018-2019
-Madagascar,22,MDG,SSA,ESA,Least Developed,Foundational reading skill,Total,23.5,24.6,22.5,23.6,24.7,22.5,23,25.8,20.1,MICS6,2018
-Ghana,23,GHA,SSA,WCA,Less Developed,Foundational reading skill,Total,21.4,22.5,20.3,23.3,24.5,22.1,14.3,16.4,12.2,MICS6,2017-2018
-Togo,24,TGO,SSA,WCA,Least Developed,Foundational reading skill,Total,17.7,19.1,16.4,18.5,20,16.9,14.8,17.7,11.9,MICS6,2017
-Sierra Leone,25,SLE,SSA,WCA,Least Developed,Foundational reading skill,Total,15.9,16.8,15,16.6,17.6,15.5,13.7,15.4,12,MICS6,2017
-Gambia,26,GMB,SSA,WCA,Least Developed,Foundational reading skill,Total,12.4,13.5,11.3,13.1,14.2,11.9,6.9,9.8,4,MICS6,2018
-Guinea-Bissau,27,GNB,SSA,WCA,Least Developed,Foundational reading skill,Total,12.4,13.5,11.3,12.8,14,11.6,10.4,13.1,7.7,MICS6,2018-2019
-Democratic Republic of the Congo,28,COD,SSA,WCA,Least Developed,Foundational reading skill,Total,8.7,9.3,8.1,9.7,10.4,9,4.8,5.8,3.8,MICS6,2017-2018
-Central African Republic,29,CAF,SSA,WCA,Least Developed,Foundational reading skill,Total,4.7,5.4,4,5.3,6.1,4.4,3.5,4.6,2.4,MICS6,2018-2019
-Chad,30,TCD,SSA,WCA,Least Developed,Foundational reading skill,Total,4.4,4.8,4,4.4,5,3.9,4.3,5.1,3.5,MICS6,2019
-Iraq,31,IRQ,MENA,MENA,Less Developed,Foundational reading skill,Total,,,,,,,,,,MICS6,2018
+Bangladesh,50,BGD,SA,SA,Least Developed,Foundational reading skill,Total,48.8,49.5,48.2,50,50.7,49.3,35.7,38.1,33.4,MICS6,2019
+Belarus,112,BLR,ECA,EECA,More Developed,Foundational reading skill,Total,82.4,84.3,80.6,82.7,84.5,80.8,77,86.7,67.4,MICS6,2019
+Central African Republic,140,CAF,SSA,WCA,Least Developed,Foundational reading skill,Total,4.7,5.4,4,5.3,6.1,4.4,3.5,4.6,2.4,MICS6,2018-2019
+Chad,148,TCD,SSA,WCA,Least Developed,Foundational reading skill,Total,4.4,4.8,4,4.4,5,3.9,4.3,5.1,3.5,MICS6,2019
+Democratic Republic of the Congo,,COD,SSA,WCA,Least Developed,Foundational reading skill,Total,8.7,9.3,8.1,9.7,10.4,9,4.8,5.8,3.8,MICS6,2017-2018
+Gambia,270,GMB,SSA,WCA,Least Developed,Foundational reading skill,Total,12.4,13.5,11.3,13.1,14.2,11.9,6.9,9.8,4,MICS6,2018
+Ghana,288,GHA,SSA,WCA,Less Developed,Foundational reading skill,Total,21.4,22.5,20.3,23.3,24.5,22.1,14.3,16.4,12.2,MICS6,2017-2018
+Guinea-Bissau,624,GNB,SSA,WCA,Least Developed,Foundational reading skill,Total,12.4,13.5,11.3,12.8,14,11.6,10.4,13.1,7.7,MICS6,2018-2019
+Guyana,328,GUY,LAC,LAC,Less Developed,Foundational reading skill,Total,61.6,64,59.3,63.6,66.2,61.1,51.9,57.9,45.9,MICS6,2019-2020
+Iraq,368,IRQ,MENA,MENA,Less Developed,Foundational reading skill,Total,,,,,,,,,,MICS6,2018
+Kiribati,296,KIR,EAP,EAP,Least Developed,Foundational reading skill,Total,35.4,37.9,33,35.5,38.4,32.7,35,40.3,29.8,MICS6,2018-2019
+Kosovo,,,ECA,EECA,,Foundational reading skill,Total,41.1,43.9,38.3,42.1,45,39.2,29.8,38.9,20.6,MICS6,2019-20
+Kyrgyzstan,417,KGZ,ECA,EECA,Less Developed,Foundational reading skill,Total,57.8,59.8,55.8,59.4,61.5,57.4,41,48.5,33.5,MICS6,2018
+Lesotho,426,LSO,SSA,ESA,Least Developed,Foundational reading skill,Total,43.8,45.6,41.9,44.4,46.3,42.5,36.3,42.6,30,MICS6,2018
+Madagascar,450,MDG,SSA,ESA,Least Developed,Foundational reading skill,Total,23.5,24.6,22.5,23.6,24.7,22.5,23,25.8,20.1,MICS6,2018
+Mongolia,496,MNG,EAP,EAP,Less Developed,Foundational reading skill,Total,63.2,64.6,61.8,63.5,65,62.1,57.5,63.7,51.3,MICS6,2018
+Nepal,524,NPL,SA,SA,Least Developed,Foundational reading skill,Total,39.2,40.6,37.8,40.1,41.6,38.6,33.1,36.8,29.4,MICS6,2019
+North Macedonia,,MKD,ECA,EECA,More Developed,Foundational reading skill,Total,64.2,67.6,60.8,66.4,70,62.9,48.5,59.5,37.5,MICS6,2018-2019
+Pakistan,586,,SA,SA,Less Developed,Foundational reading skill,Total,36.5,37.2,35.8,37.6,38.4,36.8,31.2,32.8,29.5,MICS6,2017-2018
+Samoa,882,WSM,EAP,EAP,Less Developed,Foundational reading skill,Total,51.8,54.5,49.2,53.2,56.2,50.2,47.1,53,41.2,MICS6,2019-2020
+Sao Tome and Principe,678,STP,SSA,WCA,Least Developed,Foundational reading skill,Total,38.4,41,35.7,41.5,44.5,38.5,25.5,30.8,20.1,MICS7,2019
+Sierra Leone,694,SLE,SSA,WCA,Least Developed,Foundational reading skill,Total,15.9,16.8,15,16.6,17.6,15.5,13.7,15.4,12,MICS6,2017
+State of Palestine,,PSE,MENA,MENA,Less Developed,Foundational reading skill,Total,52.7,54.5,50.9,55,56.9,53.1,38.6,43.3,33.9,MICS6,2019-2020
+Suriname,740,SUR,LAC,LAC,Less Developed,Foundational reading skill,Total,46.8,49,44.6,48.7,51.1,46.3,34.5,40.1,28.8,MICS6,2018
+Togo,768,TGO,SSA,WCA,Least Developed,Foundational reading skill,Total,17.7,19.1,16.4,18.5,20,16.9,14.8,17.7,11.9,MICS6,2017
+Tonga,776,TON,EAP,EAP,Less Developed,Foundational reading skill,Total,62.6,65.7,59.5,62.6,65.8,59.4,62.6,73.2,52.1,MICS6,2019
+Tunisia,788,TUN,MENA,MENA,Less Developed,Foundational reading skill,Total,66,67.7,64.2,68.9,70.9,67,56.5,60.4,52.6,MICS6,2018
+Turkmenistan,795,TKM,ECA,EECA,Less Developed,Foundational reading skill,Total,81.8,83.5,80.2,82.2,83.8,80.5,63.8,78.3,49.2,MICS6,2019
+Turks and Caicos Islands,796,TCA,LAC,LAC,Not Classified,Foundational reading skill,Total,78.3,83.3,73.3,77.6,83,72.3,,,,MICS6,2019-2020
+Tuvalu,798,TUV,EAP,EAP,Least Developed,Foundational reading skill,Total,54.8,61,48.6,56.3,62.9,49.8,,,,MICS6,2019-2020
+Zimbabwe,716,ZWE,SSA,ESA,Less Developed,Foundational reading skill,Total,44.4,45.9,42.9,45.9,47.4,44.3,31,35.6,26.4,MICS6,2019
